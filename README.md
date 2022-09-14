@@ -1,4 +1,4 @@
-### Hi there 👋
+🌱
 
 <!--
 **Youngini/Youngini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  Hi there 👋
 -->
+
+# profile_hardworkinginie
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngini&&show_icons=true&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngini&layout=compact&theme=nightowl)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hardworkingini)](https://solved.ac/hardworkingini)
