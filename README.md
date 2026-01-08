@@ -1,4 +1,4 @@
-🌱 열심히 하고싶어요
+### 🌱 열심히 하고싶어요
 
 <!--
 **Youngini/Youngini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -  Hi there 👋
 -->
 
-# 📚 
+## 📚 
 <div align = "center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngini&&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngini&layout=compact&theme=nightowl)
+![GitHub stats](http://ry-home.iptime.org:218/api?username=Youngini&show_icons=true&theme=nightowl)
+
+![Top Langs](http://ry-home.iptime.org:218/api/top-langs/?username=Youngini&layout=compact&theme=nightowl)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hardworkingini)](https://solved.ac/hardworkingini)
 
 </div>
 
-# 💻
+## 💻
 <div align = "center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat&logo=C&logoColor=white"/>  
